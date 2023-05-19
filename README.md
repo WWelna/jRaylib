@@ -1,9 +1,9 @@
 # jRaylib
 This is a [JNA](https://github.com/java-native-access/jna) wrapper for [raylib](https://github.com/raysan5/raylib) 4.0.0
 
-![Hello World](https://github.com/WWelna/jRaylib/blob/screenshots/jraylib-firstwindow.png)
+![Hello World](https://github.com/WWelna/jRaylib/blob/main/screenshots/jraylib-firstwindow.png)
 
-![Cube](https://github.com/WWelna/jRaylib/blob/screenshots/ihaveacube.png)
+![Cube](https://github.com/WWelna/jRaylib/blob/main/screenshots/ihaveacube.png)
 
 This code is very much Alpha with a lot of it not fully tested. This is for a project of mine needing of graphical rendering, but I hope to at some point have it be a fully functional wrapper.
 
